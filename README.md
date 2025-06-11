@@ -38,6 +38,7 @@ This project demonstrates the integration of [LLM Guard](https://github.com/prot
 ## 📁 Project Structure
 
 - `LLMGAURD_Project.ipynb` – Main implementation in Colab
+- `LLMGAURD_Project.py` – Full implementation exported from Google Colab
 - `README.md` – Project overview (this file)
 
 ---
